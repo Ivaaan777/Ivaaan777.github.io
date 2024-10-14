@@ -1,7 +1,7 @@
 ---
 title: Primermenu
 layout: busquedas
-nav-order:1
+nav-order: 1
 ---
 
 rampimpam
