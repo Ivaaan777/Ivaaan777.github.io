@@ -1,6 +1,6 @@
 ---
 title: Primermenu
-layout: home
+layout: busquedas
 nav-order:1
 ---
 
