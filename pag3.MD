@@ -1,5 +1,5 @@
 ---
-title: Primermenu
-layout: busquedas2
+title: segundomenu
+layout: dino
 nav-order: 2
 ---
